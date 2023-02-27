@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    min-height:100%;
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/17/13/53/la-froda-4134278_960_720.jpg");background-color: #012205;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
+
+h1{
+    color:goldenrod;
+    background-color:#012205;
+}
+h2 {
+    text-align: center;
+    word-wrap: break-word;
+    width: 70%;
+    margin-left: 15%;
+ }
+h4{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:goldenrod;
+    background-color:#012205;
+}
+div{
+    margin-top: 10px;
+}
